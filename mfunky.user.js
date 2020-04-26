@@ -4,7 +4,7 @@
 // @version 1.0.3
 // @description Cotg Mfunky
 // @author Mohnki
-// @match https://w12.crownofthegods.com
+// @match https://w20.crownofthegods.com
 // @match https://w19.crownofthegods.com
 // @match https://w18.crownofthegods.com
 // @match https://w17.crownofthegods.com
